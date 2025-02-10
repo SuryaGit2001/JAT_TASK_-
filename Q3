@@ -1,0 +1,15 @@
+public class Q3 {
+
+	public static void main(String[] args) {
+		AtoZ();}
+		
+		public static void AtoZ()
+		{
+		
+		for(char ch='A'; ch<='Z';ch++) {
+			System.out.println(ch);
+		}
+
+	}
+
+}
